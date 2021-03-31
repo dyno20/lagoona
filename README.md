@@ -1,2 +1,2 @@
-# dyno20.lagoona
+# dyno20.github.lagoona
 Lagoona Сеть отелей
